@@ -1,4 +1,5 @@
 **Chronic Kidney Disease Prediction**
+
 The aim is to investigate machine learning based techniques for CKD forecasting by prediction results in best accuracy.
 The analysis of dataset by supervised machine learning technique(SMLT) to capture several information’s like, variable
 identification, uni-variate analysis, bi-variate and multi-variate analysis, missing value treatments and analyze the data
@@ -6,6 +7,7 @@ validation, data cleaning/preparing and data visualization will be done on the e
 
 
 **Installation Instructions:**
+
  Install Anaconda x64
  Run Jupytr notebook
  Download and open folder CODING from repository
